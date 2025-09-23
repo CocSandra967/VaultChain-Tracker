@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+.env
+.DS_Store
+.idea/
+.vscode/
+
+# Generated exports
+vaultchain_portfolio_*.csv 
